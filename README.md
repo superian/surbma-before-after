@@ -16,5 +16,5 @@ Parameters:
     with: This is the width of the image.
     height: This is the height of the image.
     left: This is the visible label when first displayed on the left (eg "Before")
-    right: This is the visible label when first displayed on the right (eg "Before")
+    right: This is the visible label when first displayed on the right (eg "After")
 
